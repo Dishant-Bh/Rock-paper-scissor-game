@@ -1,0 +1,1 @@
+This C++ program is a simple implementation of the Rock, Paper, Scissors game. The user selects one of three options: Rock, Paper, or Scissors. The computer randomly generates its choice. The program compares both choices and determines the outcome based on the rules of the game, displaying whether the user wins, loses, or ties.
